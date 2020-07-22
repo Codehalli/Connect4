@@ -1,6 +1,7 @@
 Project: Connect 4
 
 By: Pranav Rao
+
 Date: 07/ 05/ 2020
 
 Purpose for this  program was to create a  connect 4 game. This game was created for two ppl where one player is the red piece while the other player is yellow piece. Once the game is over then it will display a text, indicating which player has won and then terminate the program.
